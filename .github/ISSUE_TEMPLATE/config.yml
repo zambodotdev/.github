@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: check a receipt
+    url: https://zambo.dev/verify/
+    about: Verify any Zambo receipt before filing
+  - name: connect zambo
+    url: https://zambo.dev/add/?ref=issue-chooser
+    about: Add Zambo to your AI in one URL, no key
