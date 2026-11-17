@@ -14,6 +14,8 @@ AER-1 is the open standard for agent execution receipts. Brennan Zambo created a
 
 **HANDOVER is the flagship:** hand a live job from one AI to another as one link, with the full record attached.
 
+**Live proof:** [check a real receipt from November 15, 2026](https://zambo.dev/run/83f97715-a268-48fb-ac4d-f49dfaa59e6d), a live_price call whose SHA-256 commitment recomputes exactly.
+
 Receipts follow AER-1 (IETF Internet-Draft draft-zambo-aer1-26; conformance corpus: 143 vectors, 146 checks, kit v1.5.7). Live counts: https://zambo.dev/numbers/
 
 Main repo: [zambo-mcp](https://github.com/zambodotdev/zambo-mcp). Founder: Brennan Zambo.
